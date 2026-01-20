@@ -1,0 +1,40 @@
+# Visual Studio local cache
+.vs/
+*.vsidx
+*.suo
+*.user
+*.userosscache
+*.userprefs
+
+# Build outputs (common)
+bin/
+obj/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+logs/
+temp/
+.tmp/
+
+# Shell script artifacts
+*.swp
+*.swo
+
+# Node/npm (if present)
+node_modules/
+
+# Python (if present)
+__pycache__/
+*.pyc
+
+# Environment/Secrets
+.env
+.env.*
+
+# Backup files
+*~
+*.bak
